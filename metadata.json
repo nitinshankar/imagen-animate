@@ -1,0 +1,5 @@
+{
+  "name": "Imagen Liquid Glass",
+  "description": "An image generator using Google's Imagen model with a fluid, glassmorphic UI inspired by modern Apple design.",
+  "requestFramePermissions": []
+}
