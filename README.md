@@ -1,6 +1,6 @@
 # AI Image Generator
 
-# Preview Demo : https://image-generator.vercel.app/
+# Preview Demo : https://imagen-animate.vercel.app/
 
 A sleek and modern web application that uses Google's Gemini API to generate high-quality images and animate them into short videos.
 
