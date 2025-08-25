@@ -7,7 +7,7 @@ if (!process.env.API_KEY) {
   throw new Error("API_KEY environment variable is not set.");
 }
 
-const ai = new GoogleGenAI({ apiKey: process.env.AIzaSyD9_ytET7fCzK9WLF6xKNKO8La3kNaCZk0 });
+const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
 
 export const generateImage = async (
   prompt: string,
